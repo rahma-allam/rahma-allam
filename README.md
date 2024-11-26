@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahma-allam
-- 👀 I’m next|React Front-end Developer
+- 👀 I’m next js|React Front-end Developer
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on a creative project or with a professional company as I can help with Front-end tasks. 
 - 📫 How to reach me ...
